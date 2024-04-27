@@ -1,4 +1,4 @@
-# Budgeting Tool README
+# Budget Master 
 
 ## Overview
 This budgeting tool is a simple command-line application designed to help users manage their budgets and track expenses. It allows users to set a budget, add expenses, view their current budget status, and save their budget details to a file for future reference.
